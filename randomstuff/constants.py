@@ -4,9 +4,9 @@ IMAGE_TYPES = ['aww', 'duck',
 	'memes', 'dankmemes', 
 	'holup', 'art', 
 	'harrypottermemes','facepalm']
-JOKE_TYPES = ['any', 'dev', 'spooky', 'pun']
+JOKE_TYPES = ['any', 'dark', 'pun', 'spooky', 'christmas', 'programming', 'misc']
 WAIFU_TYPES = ['waifu', 'neko', 'shinobu', 'megumin', 'bully', 'cuddle']
 PLANS = ['', 'pro', 'ultra', 'biz', 'mega'] # Order lowest -> highest
-VERSIONS = ['3', '4'] # Order: oldest -> newest
-DEPRECATED_VERSIONS = ['2'] # Order: oldest -> newest
-SERVERS = ['primary', 'backup', 'unstable']
+VERSIONS = ['4', '5'] # Order: oldest -> newest
+DEPRECATED_VERSIONS = ['3'] # Order: oldest -> newest
+SERVERS = ['main', 'backup']
